@@ -18,19 +18,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: C3S311a Lot2 Marine User Guide
+email: dyb@noc.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: 
+github_username:  daveberry_noc
 
 # Build settings
-theme: minima
+theme: "just-the-docs"
 plugins:
   - jekyll-feed
 
@@ -53,3 +53,27 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+#collections:
+#    docs:
+#        permalink: "/:collections/:path/"
+#        output: true
+#
+#just_the_docs:
+#    collections:
+#        docs:
+#            name: Collection 1
+#            nav_exclude: false
+#            seach_exclude: false
+
+classes: wide
+
+heading_anchors: true
+
+nav_sort: case_insensitive
+
+# Footer last edited timestamp
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+
