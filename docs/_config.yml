@@ -30,7 +30,7 @@ twitter_username:
 github_username:  daveberry_noc
 
 # Build settings
-theme: "just-the-docs"
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
