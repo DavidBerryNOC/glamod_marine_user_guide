@@ -5,10 +5,22 @@
     "url": "http://localhost:4000/about/",
     "relUrl": "/about/"
   },"1": {
+    "doc": "Common Data Model",
+    "title": "Common Data Model",
+    "content": " ",
+    "url": "http://localhost:4000/docs/cdm.html",
+    "relUrl": "/docs/cdm.html"
+  },"2": {
     "doc": "Decks",
     "title": "Decks",
     "content": " ",
     "url": "http://localhost:4000/docs/",
     "relUrl": "/docs/"
+  },"3": {
+    "doc": "Overview",
+    "title": "Overview",
+    "content": " ",
+    "url": "http://localhost:4000/docs/overview.html",
+    "relUrl": "/docs/overview.html"
   }
 }
