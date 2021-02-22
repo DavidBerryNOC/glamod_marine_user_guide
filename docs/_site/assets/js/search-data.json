@@ -11,16 +11,40 @@
     "url": "http://localhost:4000/docs/cdm.html",
     "relUrl": "/docs/cdm.html"
   },"2": {
-    "doc": "Decks",
-    "title": "Decks",
-    "content": " ",
-    "url": "http://localhost:4000/docs/",
-    "relUrl": "/docs/"
+    "doc": "Data Sources",
+    "title": "Data Sources",
+    "content": ". | Observations . | Original data sources | Description of data | . | Metadata . | WMO Publication 47 | . | . ",
+    "url": "http://localhost:4000/docs/data.html",
+    "relUrl": "/docs/data.html"
   },"3": {
+    "doc": "Data Access",
+    "title": "Data Access",
+    "content": "Data access provided through the C3S Climate Data Store. ",
+    "url": "http://localhost:4000/docs/data_access.html",
+    "relUrl": "/docs/data_access.html"
+  },"4": {
+    "doc": "ICOADS Decks",
+    "title": "ICOADS Decks",
+    "content": " ",
+    "url": "http://localhost:4000/docs/data_sources/icoads_decks/",
+    "relUrl": "/docs/data_sources/icoads_decks/"
+  },"5": {
     "doc": "Overview",
     "title": "Overview",
-    "content": " ",
+    "content": ". | background to service | what we’re trying to achieve | why this is an improvement over source data | . ",
     "url": "http://localhost:4000/docs/overview.html",
     "relUrl": "/docs/overview.html"
+  },"6": {
+    "doc": "Quality Control",
+    "title": "Quality Control",
+    "content": ". | Source format validation | Station / platform tracking | Duplicate flagging | Report level QC | Variable level QC | . ",
+    "url": "http://localhost:4000/docs/quality_control.html",
+    "relUrl": "/docs/quality_control.html"
+  },"7": {
+    "doc": "Technical Information",
+    "title": "Technical Information",
+    "content": " ",
+    "url": "http://localhost:4000/docs/technical_information.html",
+    "relUrl": "/docs/technical_information.html"
   }
 }
